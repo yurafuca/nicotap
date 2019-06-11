@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: nicotap に欲しい機能や改善を提案します
 title: ''
 labels: ''
 assignees: ''
