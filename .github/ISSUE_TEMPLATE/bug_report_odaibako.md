@@ -2,7 +2,7 @@
 name: Bug report (odaibako)
 about: お題箱からの転載用
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
