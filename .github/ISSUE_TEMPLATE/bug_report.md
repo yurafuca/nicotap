@@ -2,7 +2,7 @@
 name: Bug report
 about: nicotap のバグを報告します
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
