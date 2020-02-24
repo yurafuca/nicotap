@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report (odaibako)
 about: お題箱からの転載用
 title: ''
 labels: ''
