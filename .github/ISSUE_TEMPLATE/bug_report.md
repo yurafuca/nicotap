@@ -1,26 +1,24 @@
 ---
-name: Bug report
-about: nicotap のバグを報告します
+name: 🐛 Bug report
+about: 不具合を報告する場合はこちら
 title: ''
 labels: 'bug'
 assignees: ''
 
 ---
 
-**バグの概要**
-バグの内容を簡潔に書いてください．
-
-**再現手順**
-バグを再現させる手順を書いてください:
-1. Go to '...'
-2. Tap on '....'
-3. Scroll down to '....'
-4. See error
+**起こっている問題**
+- 
 
 **スクリーンショット**
-バグの説明に役立つスクリーンショットを用意できる場合，ここに追加してください．
 
-**バグが発生した環境**
- - Device Name: 
- - OS: Android x
- - Version: nicotap vx.x.x
+
+**起こっている問題の再現手順**
+1. 
+2. 
+3. 
+
+**動作環境**
+- Device Name: Google Pixel 3
+- OS: Android 11
+- Version: nicotap vx.x.x
