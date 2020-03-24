@@ -1,0 +1,1 @@
+/* nicotap is written fully in Kotlin. */
